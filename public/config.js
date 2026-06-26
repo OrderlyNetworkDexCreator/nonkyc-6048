@@ -33,7 +33,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_TWITTER_HANDLE": "@nonkyc_exchange",
   "VITE_SEO_THEME_COLOR": "#092737",
   "VITE_SEO_KEYWORDS": "",
-  "VITE_AVAILABLE_LANGUAGES": "en,zh,tc,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
+  "VITE_AVAILABLE_LANGUAGES": "en,zh,tc,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl,ar,fa,he",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "6",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
